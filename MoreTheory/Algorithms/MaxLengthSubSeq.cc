@@ -14,7 +14,7 @@ int findLengthMaxSubSeq(vector<int>& A){
             u.push_back(A[k]);
             L_max++;
         }
-        else if (j > -1){
+        else{
             u[j + 1] = A[k];   
         }
     }
