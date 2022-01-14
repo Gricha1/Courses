@@ -1,2 +1,2 @@
-Выжимка основных идей из первого курса https://www.coursera.org/learn/supervised-learning
+Выжимка основных идей из специализации https://www.coursera.org/learn/supervised-learning
 
